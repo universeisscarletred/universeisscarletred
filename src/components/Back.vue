@@ -79,7 +79,7 @@ export default {
 .card {
   position: relative;
   width: 30rem;
-  height: 100%;
+  height: 40%;
   background-color: #f6f6f6;
   border-radius: 15px;
   box-shadow: 20px 20px 60px #d1d1d1, -20px -20px 60px #ffffff;
